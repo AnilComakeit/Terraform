@@ -4,7 +4,7 @@
 *.tfstate.lock.info
 #Environment files
 *.tfvars
-
+*.test
 # logs
 *.log
 
